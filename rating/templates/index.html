@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Определение вероятного рейтинга по рецензии</title>
+    <link rel="stylesheet" href="{% static "css/styles.css" %}" />
+</head>
+<body  style="margin:40px; background:MintCream;">
+    <h2>Введите вашу рещензию</h2>
+    <form type="text" method="post" action="postuser/">
+        {% csrf_token %}
+        <p>Ваша рецензия<br> <textarea class="inputs1" name="name" ></textarea></p>
+        <input class="inputs2" type="submit" value="проверить" />
+    </form>
+
+
+</body>
+</html>

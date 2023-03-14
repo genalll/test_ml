@@ -1,0 +1,21 @@
+body{ display:flex;
+      flex-direction: column;
+    font-family: Verdana;}
+h2{
+    margin:0 auto;
+}
+h2{color:navy;}
+
+form{
+    margin:0 auto;
+}
+
+.inputs1{
+    width: 600px;
+    height: 480px;
+}
+.inputs2{
+    width: 100px;
+    height: 40px;
+}
+
