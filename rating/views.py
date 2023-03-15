@@ -80,7 +80,7 @@ def postuser(request):
     <title>Определение вероятного рейтинга по рецензии</title>
 </head>
 <body style="margin:40px; background:MintCream;">
-<h1 style="text-align:center;">Результаты оценки вашей рецpytензии<h1> <br>
+<h1 style="text-align:center;">Результаты оценки вашей рецензии<h1> <br>
 <h2>Рецензия:<h2> <br> 
 <p>{name}</p> <br> 
 <p style="font-size:35px; "> Предполагаемый рейтинг фильма : {rating} </p> <br>
