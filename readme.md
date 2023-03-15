@@ -35,7 +35,7 @@
 
 ![Метрики](https://raw.githubusercontent.com/genalll/test_ml/main/rating/static/1.png)
 
-##### Ссылка на презентацию проекта:
+##### Ссылка на презентацию проекта: https://github.com/genalll/test_ml/raw/main/presentation.pdf
 ##### Ссылка на развернутое приложение django http://178.21.8.213:8888/
 ##### Блокнот с обучением моделей и подготовкой данных в корневой папке проекта klass.ipynb  https://github.com/genalll/test_ml/blob/main/klass.ipynb
 
