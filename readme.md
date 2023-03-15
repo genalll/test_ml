@@ -1,7 +1,7 @@
 # Тестовое задание на стажировку "Гринатом"
 
 
-![Метрики](https://disk.yandex.ru/i/ec47ZUXkClz_bA)
+![Метрики](https://disk.yandex.ru/client/recent?idApp=client&dialog=slider&idDialog=%2Fdisk%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-15%2009-15-50.png)
 
 
 
@@ -24,12 +24,12 @@
 
 Для оценки позитивная и негативная направленность рецензии.
 
-![Метрики](https://disk.yandex.ru/i/p3zkPa8dEeQaOA)
+![Метрики](https://disk.yandex.ru/client/recent?idApp=client&dialog=slider&idDialog=%2Fdisk%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-15%2009-06-53.png)
 
 
 Для прогнозирования рейтинга фильма на основании рецензии
 
-![Метрики](https://disk.yandex.ru/i/7Fft0iyIiZuaTA)
+![Метрики](https://disk.yandex.ru/client/recent?idApp=client&dialog=slider&idDialog=%2Fdisk%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-15%2009-06-38.png)
 
 # Ссылка на презентацию проекта:
 # Ссылка на развернутое приложение django http://178.21.8.213:8888/
